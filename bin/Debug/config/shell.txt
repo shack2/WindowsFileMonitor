@@ -1,0 +1,12 @@
+eval
+base64_decode
+assert
+call_user_func
+preg_replace
+wscript
+system32
+serv-u
+jspspy
+phpspy
+aspxspy
+webshell

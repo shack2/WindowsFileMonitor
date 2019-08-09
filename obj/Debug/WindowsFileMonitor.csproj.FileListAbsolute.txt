@@ -1,0 +1,10 @@
+F:\MyCoding\c#\2015\WindowsFileMonitor\WindowsFileMonitor\bin\Debug\WindowsFileMonitor.exe
+F:\MyCoding\c#\2015\WindowsFileMonitor\WindowsFileMonitor\bin\Debug\WindowsFileMonitor.pdb
+F:\MyCoding\c#\2015\WindowsFileMonitor\WindowsFileMonitor\obj\Debug\WindowsFileMonitor.csprojResolveAssemblyReference.cache
+F:\MyCoding\c#\2015\WindowsFileMonitor\WindowsFileMonitor\obj\Debug\WindowsFileMonitor.Form1.resources
+F:\MyCoding\c#\2015\WindowsFileMonitor\WindowsFileMonitor\obj\Debug\WindowsFileMonitor.Properties.Resources.resources
+F:\MyCoding\c#\2015\WindowsFileMonitor\WindowsFileMonitor\obj\Debug\WindowsFileMonitor.csproj.GenerateResource.Cache
+F:\MyCoding\c#\2015\WindowsFileMonitor\WindowsFileMonitor\obj\Debug\WindowsFileMonitor.exe
+F:\MyCoding\c#\2015\WindowsFileMonitor\WindowsFileMonitor\obj\Debug\WindowsFileMonitor.pdb
+G:\MyCoding\c#\2015\WindowsFileMonitor\WindowsFileMonitor\obj\Debug\WindowsFileMonitor.exe
+G:\MyCoding\c#\2015\WindowsFileMonitor\WindowsFileMonitor\obj\Debug\WindowsFileMonitor.pdb

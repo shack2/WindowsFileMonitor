@@ -1,0 +1,9 @@
+.cdx
+.cer
+.asa
+.asp
+.php
+.aspx
+.ashx
+.jsp
+.jspx
